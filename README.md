@@ -27,5 +27,4 @@
 
 ### Ajustes e melhorias
 
-- [ ] Renderização
-- [ ] Hospedagem
+- [ ] Hospedar
