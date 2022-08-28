@@ -27,4 +27,4 @@
 
 ### Ajustes e melhorias
 
-- [ ] Hospedar
+- [ ] Deploy
